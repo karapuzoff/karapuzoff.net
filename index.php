@@ -23,7 +23,7 @@
 		<h1 class="text-center">Ivan Karapuzoff</h1>
 	</div>
 	<div class="text-center">
-		<img class="avatar img-thumbnail img-circle flip" src="/img/avatar_01.jpg" />
+		<img class="avatar img-thumbnail img-circle" src="/img/avatar_01.jpg" />
 	</div>
 	
 	<div class="row">
