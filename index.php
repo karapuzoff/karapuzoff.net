@@ -75,7 +75,7 @@
 	
 	<div class="footer">
 		<div class="col-md-12 text-center">
-			git <?=gitversion()?>
+			karapuzoff &copy; <?=date("Y")?> &bull; v<?=gitversion()?>
 		</div>
 	</div>
 	
