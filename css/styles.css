@@ -4,6 +4,32 @@ html,body {
     background-size: cover;
 }
 
+/*
+	Home titles
+*/
+@font-face {
+	font-family: League-Gothic;
+	src: url("League-Gothic.otf") format("opentype");
+}
+#vintage h1 {
+	text-align: center;
+	margin: 20px auto;
+	font-family: "League-Gothic", Courier;
+	font-size: 100px;
+	color: #707070;
+	text-shadow: 5px 5px 0px #eee, 7px 7px 0px #707070;
+}
+#retro h1 {
+	color: #fff;
+	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
+	font-family: "League-Gothic", Courier;
+	font-size: 80px;
+	letter-spacing: 10px;
+}
+/*
+	END
+*/
+
 .icon-bar {
 	background-color:#fff;
 }

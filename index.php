@@ -19,7 +19,9 @@
 
 <body>
 <section class="container" id="section5">
-	<h1 class="text-center">Ivan Karapuzoff</h1>
+	<div id="retro">
+		<h1 class="text-center">Ivan Karapuzoff</h1>
+	</div>
 	<div class="text-center">
 		<img class="avatar img-thumbnail img-circle" src="/img/avatar_01.jpg" />
 	</div>
