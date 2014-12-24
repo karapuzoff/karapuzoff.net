@@ -112,3 +112,20 @@ a.list-group-item.active,[class*='-info'] {
 	color: #a5a5a5;
 	padding-top: 20px;
 }
+
+/*
+	Spin on hover avatar
+*/
+.flip {
+    border-radius:50%;    
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    -ms-transition: -ms-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+    
+    
+}
+.flip:hover {
+    transform:rotate(360deg);
+    -ms-transform:rotate(360deg);
+    -webkit-transform:rotate(360deg);
+}
