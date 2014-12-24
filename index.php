@@ -73,12 +73,9 @@
 		</div>
 	</div><!--/row-->
 	
-	<div class="row">
+	<div class="footer">
 		<div class="col-md-12 text-center">
-			<br><br>
-			<p>
-				<b>git <?=gitversion()?></b>
-			</p>
+			git <?=gitversion()?>
 		</div>
 	</div>
 	
