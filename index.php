@@ -28,7 +28,7 @@
 	
 	<div class="row">
 		<!-- twitter -->
-		<div class="col-sm-1 col-sm-offset-2 col-xs-4 text-center">
+		<div class="col-sm-1 col-sm-offset-3 col-xs-4 text-center">
 			<a class="btn btn-social-icon btn-lg btn-twitter" href="http://twitter.com/karapuzoff" target="_blank">
 				<i class="fa fa-twitter fa-4x"></i>
 			</a>
@@ -58,17 +58,17 @@
 			</a>
 		</div>
 		<!-- flickr -->
-		<div class="col-sm-1 col-xs-4 text-center">
+		<!--div class="col-sm-1 col-xs-4 text-center">
 			<a class="btn btn-social-icon btn-lg btn-flickr" disabled>
 				<i class="fa fa-flickr fa-4x"></i>
 			</a>
-		</div>
+		</div-->
 		<!-- github -->
-		<div class="col-sm-1 col-xs-4 text-center">
+		<!--div class="col-sm-1 col-xs-4 text-center">
 			<a class="btn btn-social-icon btn-lg btn-github" disabled>
 				<i class="fa fa-github fa-4x"></i>
 			</a>
-		</div>
+		</div-->
 		<!-- steam -->
 		<div class="col-sm-1 col-xs-4 text-center">
 			<a class="btn btn-social-icon btn-lg btn-steam" href="http://steamcommunity.com/id/karapuzoff/" target="_blank">
