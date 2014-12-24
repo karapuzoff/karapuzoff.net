@@ -28,31 +28,31 @@
 	
 	<div class="row">
 		<!-- twitter -->
-		<div class="col-sm-1 col-sm-offset-3 col-xs-4 text-center">
+		<div class="col-sm-1 col-sm-offset-3 col-xs-4 text-center spinsocial">
 			<a class="btn btn-social-icon btn-lg btn-twitter" href="http://twitter.com/karapuzoff" target="_blank">
 				<i class="fa fa-twitter fa-4x"></i>
 			</a>
 		</div>
 		<!-- facebook -->	
-		<div class="col-sm-1 col-xs-4 text-center">
+		<div class="col-sm-1 col-xs-4 text-center spinsocial">
 			<a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/karapuzoff" target="_blank">
 				<i class="fa fa-facebook fa-4x"></i>
 			</a>
 		</div>
 		<!-- dropbox -->
-		<div class="col-sm-1 col-xs-4 text-center">
+		<div class="col-sm-1 col-xs-4 text-center spinsocial">
 			<a class="btn btn-social-icon btn-lg btn-youtube" href="http://www.youtube.com/user/karapuz0ff" target="_blank">
 				<i class="fa fa-youtube-play fa-4x"></i>
 			</a>
 		</div>
 		<!-- instagram -->
-		<div class="col-sm-1 col-xs-4 text-center">
+		<div class="col-sm-1 col-xs-4 text-center spinsocial">
 			<a class="btn btn-social-icon btn-lg btn-instagram" href="http://instagram.com/karapuzoff" target="_blank">
 				<i class="fa fa-instagram fa-4x"></i>
 			</a>
 		</div>
 		<!-- vk -->
-		<div class="col-sm-1 col-xs-4 text-center">
+		<div class="col-sm-1 col-xs-4 text-center spinsocial">
 			<a class="btn btn-social-icon btn-lg btn-vk" href="http://vk.com/karapuz0ff" target="_blank">
 				<i class="fa fa-vk fa-4x"></i>
 			</a>
@@ -70,7 +70,7 @@
 			</a>
 		</div-->
 		<!-- steam -->
-		<div class="col-sm-1 col-xs-4 text-center">
+		<div class="col-sm-1 col-xs-4 text-center spinsocial">
 			<a class="btn btn-social-icon btn-lg btn-steam" href="http://steamcommunity.com/id/karapuzoff/" target="_blank">
 				<i class="fa fa-steam fa-4x"></i>
 			</a>

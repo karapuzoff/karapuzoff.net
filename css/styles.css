@@ -112,3 +112,39 @@ a.list-group-item.active,[class*='-info'] {
 	color: #a5a5a5;
 	padding-top: 20px;
 }
+
+/*
+	Spin on hover avatar
+*/
+.imgflip {
+    border-radius:50%;    
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    -ms-transition: -ms-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+    
+    
+}
+.imgflip:hover {
+    transform:rotate(360deg);
+    -ms-transform:rotate(360deg);
+    -webkit-transform:rotate(360deg);
+}
+
+/*
+	Spin social icons
+*/
+.spinsocial {
+  -webkit-transition: all 0.3s ease;
+     -moz-transition: all 0.3s ease;
+       -o-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+          transition: all 0.3s ease;
+}
+ 
+.spinsocial:hover {
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(15deg);
+       -o-transform: rotate(15deg);
+      -ms-transform: rotate(15deg);
+          transform: rotate(15deg);
+}
