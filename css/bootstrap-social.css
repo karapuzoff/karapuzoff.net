@@ -117,6 +117,18 @@
 	border-color: rgba(0,0,0,0.2);
 }
 
+/*
+	YouTube
+*/
+.btn-youtube {
+	color:#fff;
+	font-size: 15px;
+}
+.btn-youtube:hover,.btn-youtube:focus,.btn-youtube:active,.btn-youtube.active,.open>.dropdown-toggle.btn-youtube {
+	color:#fff;
+	background: #b31217;
+	border-color: rgba(0,0,0,0.2);
+}
 
 
 

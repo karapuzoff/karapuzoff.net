@@ -4,6 +4,7 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
+	<meta name="google-site-verification" content="qEp3Gjs4WdydSlIywKd8x2xt_Hwtolvan2uQeBxNtHA" />
 	<title>@karapuzoff</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -37,8 +38,8 @@
 		</div>
 		<!-- dropbox -->
 		<div class="col-sm-1 col-xs-4 text-center">
-			<a class="btn btn-social-icon btn-lg btn-dropbox" disabled>
-				<i class="fa fa-dropbox fa-4x"></i>
+			<a class="btn btn-social-icon btn-lg btn-youtube">
+				<i class="fa fa-youtube-play fa-4x"></i>
 			</a>
 		</div>
 		<!-- instagram -->
