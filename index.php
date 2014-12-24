@@ -5,6 +5,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
 	<meta name="google-site-verification" content="qEp3Gjs4WdydSlIywKd8x2xt_Hwtolvan2uQeBxNtHA" />
+	<meta name='yandex-verification' content='5c07504e8189e0b4' />
 	<title>@karapuzoff</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +39,7 @@
 		</div>
 		<!-- dropbox -->
 		<div class="col-sm-1 col-xs-4 text-center">
-			<a class="btn btn-social-icon btn-lg btn-youtube">
+			<a class="btn btn-social-icon btn-lg btn-youtube" href="http://www.youtube.com/user/karapuz0ff" target="_blank">
 				<i class="fa fa-youtube-play fa-4x"></i>
 			</a>
 		</div>
@@ -76,7 +77,7 @@
 	
 	<div class="footer">
 		<div class="col-md-12 text-center">
-			karapuzoff &copy; <?=date("Y")?> &bull; v<?=gitversion()?>
+			karapuzoff &copy; <?=date("Y")?> &bull; <kbd>v<?=gitversion()?></kbd>
 		</div>
 	</div>
 	
