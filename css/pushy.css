@@ -1,9 +1,8 @@
-/*! Pushy - v0.9.2 - 2014-9-13
-* Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.
-* https://github.com/christophery/pushy/
-* by Christopher Yee */
-
-/* Menu Appearance */
+ul{
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+}
 
 .pushy{
     position: fixed;
@@ -11,9 +10,7 @@
     height: 100%;
     top: 0;
     z-index: 9999;
-    background: #333332;
-    font-size: 0.9em;
-    font-weight: bold;
+	background: left top repeat url('/img/bg-menu-01.png');
     -webkit-box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
     -moz-box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);
     box-shadow: inset -10px 0 6px -9px rgba(0, 0, 0, .7);

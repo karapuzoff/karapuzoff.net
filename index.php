@@ -23,12 +23,8 @@
         
 <nav class="pushy pushy-left">
 	<ul>
-		<li><a href="#">Проверка 1</a></li>
-		<li><a href="#">Проверка </a></li>
-		<li><a href="#">Проверка </a></li>
-		<li><a href="#">Проверка </a></li>
-		<li><a href="#">Проверка </a></li>
-		<li><a href="#">Проверка </a></li>
+		<li><a href="#"><i class="fa fa-twitter"></i> Проверка списка</a></li>
+		<li><a href="#"><i class="fa fa-steam"></i> Проверка списка</a></li>
 	</ul>
 </nav>
 
