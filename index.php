@@ -23,12 +23,12 @@
         
 <nav class="pushy pushy-left">
 	<ul>
-		<li><a href="#">Item 1</a></li>
-		<li><a href="#">Item 2</a></li>
-		<li><a href="#">Item 3</a></li>
-		<li><a href="#">Item 4</a></li>
-		<li><a href="#">Item 5</a></li>
-		<li><a href="#">Item 6</a></li>
+		<li><a href="#">Проверка 1</a></li>
+		<li><a href="#">Проверка </a></li>
+		<li><a href="#">Проверка </a></li>
+		<li><a href="#">Проверка </a></li>
+		<li><a href="#">Проверка </a></li>
+		<li><a href="#">Проверка </a></li>
 	</ul>
 </nav>
 
@@ -103,7 +103,7 @@
 
 
 <!-- script references -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/pushy.min.js"></script>
 
