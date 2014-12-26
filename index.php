@@ -11,11 +11,17 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/bootstrap-social.css" rel="stylesheet">
 	<link href="css/font-awesome.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="css/style3.css" />
+	<link rel="stylesheet" type="text/css" href="css/border-menu.css" />
 	<!--[if lt IE 9]>
 		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	<link href="css/styles.css" rel="stylesheet">
+	<script type="text/javascript">
+		if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+			location.replace("http://m.karapuzoff.net");
+		}
+		if (screen.width <= 699) { document.location = "http://m.karapuzoff.net"; }
+	</script>
 </head>
 
 <body>
@@ -90,11 +96,11 @@
 				<a href="#" class="bt-menu-trigger"><span>Меню</span></a>
 				<ul>
 					<li><a href="#" class="bt-icon icon-user-outline">Обо мне</a></li>
-					<li><a href="#" class="bt-icon icon-sun">Skills</a></li>
-					<li><a href="#" class="bt-icon icon-windows">Work</a></li>
-					<li><a href="#" class="bt-icon icon-speaker">Blog</a></li>
-					<li><a href="#" class="bt-icon icon-star">Clients</a></li>
-					<li><a href="#" class="bt-icon icon-bubble">Contact</a></li>
+					<li><a href="#" class="bt-icon icon-sun">Проекты</a></li>
+					<li><a href="#" class="bt-icon icon-speaker">Работы</a></li>
+					<li><a href="#" class="bt-icon icon-windows">Блог</a></li>
+					<li><a href="#" class="bt-icon icon-star">Отзывы</a></li>
+					<li><a href="#" class="bt-icon icon-bubble">Контакты</a></li>
 				</ul>
 			</nav>
 		</div><!-- /container -->
