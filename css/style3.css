@@ -6,13 +6,6 @@
     box-sizing: border-box;
 }
 
-body  {
-	background: #2980b9;
-}
-
-.container {
-	padding: 80px;
-}
 
 .bt-menu {
 	position: fixed;
