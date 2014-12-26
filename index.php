@@ -11,6 +11,7 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/bootstrap-social.css" rel="stylesheet">
 	<link href="css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/style3.css" />
 	<!--[if lt IE 9]>
 		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
@@ -82,13 +83,28 @@
 			karapuzoff &copy; <?=date("Y")?> &bull; <kbd>v<?=gitversion()?></kbd>
 		</div>
 	</div>
-	
 </section>
+
+		<div class="container">
+			<nav id="bt-menu" class="bt-menu">
+				<a href="#" class="bt-menu-trigger"><span>Меню</span></a>
+				<ul>
+					<li><a href="#" class="bt-icon icon-user-outline">Обо мне</a></li>
+					<li><a href="#" class="bt-icon icon-sun">Skills</a></li>
+					<li><a href="#" class="bt-icon icon-windows">Work</a></li>
+					<li><a href="#" class="bt-icon icon-speaker">Blog</a></li>
+					<li><a href="#" class="bt-icon icon-star">Clients</a></li>
+					<li><a href="#" class="bt-icon icon-bubble">Contact</a></li>
+				</ul>
+			</nav>
+		</div><!-- /container -->
 
 
 <!-- script references -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<script src="js/classie.js"></script>
+<script src="js/borderMenu.js"></script>
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter27721542 = new Ya.Metrika({id:27721542, webvisor:true, clickmap:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/27721542" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
