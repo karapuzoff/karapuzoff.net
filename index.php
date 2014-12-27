@@ -98,7 +98,7 @@
 					<li><a href="#" class="bt-icon icon-user-outline">Обо мне</a></li>
 					<li><a href="#" class="bt-icon icon-sun">Проекты</a></li>
 					<li><a href="#" class="bt-icon icon-speaker">Работы</a></li>
-					<li><a href="#" class="bt-icon icon-windows">Блог</a></li>
+					<li><a href="/blog/" class="bt-icon icon-windows">Блог</a></li>
 					<li><a href="#" class="bt-icon icon-star">Отзывы</a></li>
 					<li><a href="#" class="bt-icon icon-bubble">Контакты</a></li>
 				</ul>
