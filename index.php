@@ -95,12 +95,12 @@
 			<nav id="bt-menu" class="bt-menu">
 				<a href="#" class="bt-menu-trigger"><span>Меню</span></a>
 				<ul>
-					<li><a href="#" class="bt-icon icon-user-outline">Обо мне</a></li>
-					<li><a href="#" class="bt-icon icon-sun">Проекты</a></li>
-					<li><a href="#" class="bt-icon icon-speaker">Работы</a></li>
-					<li><a href="/blog/" class="bt-icon icon-windows">Блог</a></li>
-					<li><a href="#" class="bt-icon icon-star">Отзывы</a></li>
-					<li><a href="#" class="bt-icon icon-bubble">Контакты</a></li>
+					<li><a href="#"><i class="fa fa-user"></i> Обо мне</a></li>
+					<li><a href="#"><i class="fa fa-file-text-o"></i> Резюме</a></li>
+					<li><a href="#"><i class="fa fa-database"></i> Проекты</a></li>
+					<li><a href="/blog/"><i class="fa fa-bullhorn"></i> Блог</a></li>
+					<li><a href="#"><i class="fa fa-microphone"></i> Отзывы</a></li>
+					<li><a href="#"><i class="fa fa-envelope-o"></i> Написать мне</a></li>
 				</ul>
 			</nav>
 		</div><!-- /container -->
