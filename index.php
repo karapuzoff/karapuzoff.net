@@ -95,7 +95,12 @@
 			<nav id="bt-menu" class="bt-menu">
 				<a href="#" class="bt-menu-trigger"><span>Меню</span></a>
 				<ul>
-					<li><a href="#"><i class="fa fa-user"></i> Обо мне</a></li>
+					<li>
+						<a href="#" type="button">
+							<i class="fa fa-user"></i>
+							Обо мне
+						</a>
+					</li>
 					<li><a href="#"><i class="fa fa-file-text-o"></i> Резюме</a></li>
 					<li><a href="#"><i class="fa fa-database"></i> Проекты</a></li>
 					<li><a href="/blog/"><i class="fa fa-bullhorn"></i> Блог</a></li>
